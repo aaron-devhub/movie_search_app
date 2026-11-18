@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CineFlow</string>
+    <string name="main_title">Cartelera Actual</string>
+    <string name="search_label">Buscar película...</string>
+    <string name="btn_book">Reservar Entradas</string>
+    <string name="btn_trailer">Ver Tráiler</string>
+    <string name="dialog_title">Selecciona la fecha</string>
+    <string name="err_empty">Debes buscar una película primero</string>
+    <string name="titulo_bola_negra">La Bola Negra</string>
+    <string name="titulo_club_lucha">El Club de la Lucha</string>
+    <string name="titulo_ice_age">Ice Age</string>
+</resources>
